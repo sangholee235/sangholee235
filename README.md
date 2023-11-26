@@ -1,3 +1,3 @@
 
 Tech Stack <br>
-<img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby">
+<img src="https://img.shields.io/badge/React-CC342D?logo=React">
