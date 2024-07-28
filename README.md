@@ -4,5 +4,5 @@ Tech Stack
 <hr>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=React">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sangholee228&show_icons=true&theme=radical)
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={tkdgh990612@naver.com})](https://solved.ac/{handle})
