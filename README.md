@@ -3,7 +3,13 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Profile </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> • Chungbuk National University Software Major(18.03 ~24.02)<dr></li>• CBNU IT Club CORE (22.09 ~ 24.02)</li>• Samsung Software Academy (24.07 ~)</li></li>Certificate</li>• 정보처리기사 Certified</li>• SQLD Certified</li>• AdSP Certified</li>• 리눅스 마스터 2급 Certified </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> • Chungbuk National University Software Major (18.03 ~ 24.02) <br>
+    • CBNU IT Club CORE (22.09 ~ 24.02) <br>
+    • Samsung Software Academy For Youth (24.07 ~) <br><br>
+    • 정보처리기사 Certified <br>
+    • SQLD Certified <br>
+    • AdSP Certified <br>
+    • 리눅스 마스터 2급 Certified </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -30,8 +36,6 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=sangholee235&custom_title=sangholee235's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangholee235&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> </div> 
     </div>
     
