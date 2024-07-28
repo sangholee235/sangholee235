@@ -1,4 +1,5 @@
 <div align= "center">
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tkdgh990612)](https://solved.ac/tkdgh990612)
     <img src="https://capsule-render.vercel.app/api?type=soft&color=02a7ed&height=240&text=Sangho%20Lee&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
@@ -35,6 +36,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangholee235&layout=compact&theme=tokyonight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=sangholee235&show_icons=true&theme=tokyonight">
         <h3 align="center">👩‍💻 My Baekjoon Stats 👩‍💻</h3>
-        <div>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgh990612)](https://solved.ac/tkdgh990612/)</div>
     </div>
+    
     
