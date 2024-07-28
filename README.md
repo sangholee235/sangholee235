@@ -43,8 +43,8 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sangholee235&show_icons=true&theme=radical" alt="GitHub Stats"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangholee235&layout=compact&theme=radical" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=sangholee235&show_icons=true&theme=radical" alt="GitHub Stats"/><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangholee235&layout=compact&theme=radical" alt="Top Languages"/><br>
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgh990612" alt="Baekjoon Tier"/>
     </div>
 </div>
