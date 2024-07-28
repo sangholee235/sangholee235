@@ -3,8 +3,19 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Profile </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> • Chungbuk National University Software Major(18.03 ~24.02)<br>
-    </li>• CBNU IT Club CORE (22.09 ~ 24.02)<br></li>• Samsung Software Academy (24.07 ~)</li><br></li>Certificate</li>• 정보처리기사 Certified</li>• SQLD Certified</li>• AdSP Certified</li>• 리눅스 마스터 2급 Certified </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"><ul>
+        <li>Chungbuk National University Software Major (18.03 ~ 24.02)</li>
+        <li>CBNU IT Club CORE (22.09 ~ 24.02)</li>
+        <li>Samsung Software Academy (24.07 ~)</li>
+    </ul>
+    <h2>Certificate</h2>
+    <ul>
+        <li>정보처리기사 Certified</li>
+        <li>SQLD Certified</li>
+        <li>AdSP Certified</li>
+        <li>리눅스 마스터 2급 Certified</li>
+    </ul>
+</div>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
