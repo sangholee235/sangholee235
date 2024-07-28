@@ -1,5 +1,4 @@
 <div align= "center">
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tkdgh990612)](https://solved.ac/tkdgh990612)
     <img src="https://capsule-render.vercel.app/api?type=soft&color=02a7ed&height=240&text=Sangho%20Lee&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
