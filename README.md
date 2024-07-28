@@ -31,6 +31,6 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangholee228&show_icons=true&theme=스타일)
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangholee228)](https://github.com/anuraghazra/github-readme-stats)
     </div>
     
