@@ -2,23 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=02a7ed&height=240&text=Sangho%20Lee&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Profile </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"><ul>
-        <li>Chungbuk National University Software Major (18.03 ~ 24.02)</li>
-        <li>CBNU IT Club CORE (22.09 ~ 24.02)</li>
-        <li>Samsung Software Academy (24.07 ~)</li>
-    </ul>
-    <h2>Certificate</h2>
-    <ul>
-        <li>정보처리기사 Certified</li>
-        <li>SQLD Certified</li>
-        <li>AdSP Certified</li>
-        <li>리눅스 마스터 2급 Certified</li>
-    </ul>
-</div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Profile </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> • Chungbuk National University Software Major(18.03 ~24.02)<dr></li>• CBNU IT Club CORE (22.09 ~ 24.02)</li>• Samsung Software Academy (24.07 ~)</li></li>Certificate</li>• 정보처리기사 Certified</li>• SQLD Certified</li>• AdSP Certified</li>• 리눅스 마스터 2급 Certified </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
@@ -33,7 +21,7 @@
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:tkdgh228@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:tkdgh228@gmail.com"> </a>
          <a href=https://www.notion.so/Hi-I-m-Sangho-Lee-915dc7fe721647348d24b0252e95ff9a?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Hi-I-m-Sangho-Lee-915dc7fe721647348d24b0252e95ff9a?pvs=4"> </a>
          <a href=https://velog.io/@tkdgh6427> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@tkdgh6427"> </a>
@@ -42,12 +30,6 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">   </div> 
-      <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangholee235&layout=compact&theme=tokyonight"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=sangholee235&show_icons=true&theme=tokyonight"><br><br>
-        <h3 align="center">👩‍💻 My Baekjoon Stats 👩‍💻</h3>
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tkdgh990612)](https://solved.ac/tkdgh990612)<br/>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">   </div> 
     </div>
-    
     
