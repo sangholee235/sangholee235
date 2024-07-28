@@ -1,3 +1,5 @@
+<h1 align="center"> Sangho Lee </h1>
+
 Tech Stack
 
 <br>
