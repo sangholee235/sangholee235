@@ -34,6 +34,7 @@
       <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangholee235&layout=compact&theme=tokyonight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=sangholee235&show_icons=true&theme=tokyonight">
+        <h3 align="center">👩‍💻 My Baekjoon Stats 👩‍💻</h3>
         <div>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgh990612)](https://solved.ac/tkdgh990612/)</div>
     </div>
     
