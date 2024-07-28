@@ -30,9 +30,6 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">
-        ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sangholee228)
-    [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangholee228&layout=레이아웃 스타일&theme=스타일)</div> 
-        
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     </div>
     
