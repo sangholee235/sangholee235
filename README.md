@@ -6,8 +6,8 @@ Tech Stack
 <hr>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=React">
 
-<div align="center">
-  [![Solved.ac
+
+[![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkdgh990612)](https://solved.ac/{handle})
-</div>
+
 
