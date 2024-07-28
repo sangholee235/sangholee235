@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=02a7ed&height=240&text=Sangho%20Lee&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> My profile </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요 저의 프로필입니다 ! </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Profile </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> • Chungbuk National University Software Major(18.03 ~24.02)</li>• CBNU IT Club CORE (22.09 ~ 24.02)</li>• Samsung Software Academy (24.07 ~)</li></li>Certificate</li>• 정보처리기사 Certified</li>• SQLD Certified</li>• AdSP Certified</li>• 리눅스 마스터 2급 Certified </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -29,5 +29,10 @@
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangholee228%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
-    
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">
+        ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sangholee228)
+    [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangholee228&layout=레이아웃 스타일&theme=스타일)</div> 
+        
+    </div>
     
