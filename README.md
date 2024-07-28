@@ -33,7 +33,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">   </div> 
       <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangholee235&layout=compact&theme=tokyonight"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=sangholee235&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=sangholee235&show_icons=true&theme=tokyonight"><br><br>
         <h3 align="center">👩‍💻 My Baekjoon Stats 👩‍💻</h3>
         [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tkdgh990612)](https://solved.ac/tkdgh990612)<br/>
     </div>
