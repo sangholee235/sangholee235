@@ -30,10 +30,7 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkdgh990612)](https://solved.ac/tkdgh990612)  </div> 
     </div>
-    [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkdgh990612)](https://solved.ac/tkdgh990612})
-    </div>
-
     
