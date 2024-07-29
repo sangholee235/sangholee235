@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         • Chungbuk National University Software Major (18.03 ~ 24.02) <br>
         • CBNU IT Club CORE (22.09 ~ 24.02) <br>
-        • Samsung Software Academy For Youth (24.07 ~) <br><br>
+        • Samsung Software Academy For Youth [Java Major Track] (24.07 ~) <br><br>
         • 정보처리기사 Certified <br>
         • SQLD Certified <br>
         • AdSP Certified <br>
