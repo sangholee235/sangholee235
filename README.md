@@ -43,7 +43,15 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sangholee235&show_icons=true&theme=radical" alt="GitHub Stats"/><br><br><br>
+        <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=385 src="https://github-readme-stats.vercel.app/api?username=sangholee235&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=ffffff&text_color=ffffff&title_color=539bf500e6fe&rank_icon=github" />
+    </a>
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img align="right" width=385 src="http://github-readme-streak-stats.herokuapp.com?user=sangholee235&hide_border=true&theme=github-dark-blue" alt="" />
+    </a>
+</div>
+
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangholee235&layout=compact&theme=radical" alt="Top Languages"/><br><br><br>
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgh990612" alt="Baekjoon Tier"/>
     </div>
